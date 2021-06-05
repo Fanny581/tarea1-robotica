@@ -1,0 +1,3 @@
+2.Repositorio es un término que tiene su raíz etimológica en repositorĭum, un vocablo latino. Un repositorio es un espacio que se utiliza para almacenar distintas cosas.
+3.Aparte de GitHub, Qué otras aplicaciones en la nube utilizamos para subir nuestros repositorios?
+GitLab, SourceForge,GitKraken.
